@@ -1,6 +1,7 @@
 # Hygiene Monitoring System — Backend
 
 A full stack smart city hygiene monitoring system built with Spring Boot 3, Java 21, and MySQL.
+**Live App:** https://hygienemonitoring.netlify.app/
 
 ## Features
 
@@ -49,6 +50,7 @@ src/main/java/com/hygienetracker/backend/
 └── dto/           — Request/response objects
 
 ## Setup Instructions
+> Note: This backend is already deployed and running on Railway — the steps below are only for running it locally.
 
 1. Install Java 21 and MySQL 8.0
 2. Create database: `CREATE DATABASE hygiene_tracker;`
