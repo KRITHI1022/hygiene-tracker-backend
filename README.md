@@ -1,6 +1,7 @@
 # Hygiene Monitoring System — Backend
 
 A full stack smart city hygiene monitoring system built with Spring Boot 3, Java 21, and MySQL.
+
 **Live App:** https://hygienemonitoring.netlify.app/
 
 ## Features
